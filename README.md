@@ -33,7 +33,7 @@ To install Himaya:
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/Wambuapeter/Himaya.git
+   git clone https://github.com/Himaya-Email-Security/Himaya.git
    ```
 2. Open your Google Apps Script dashboard in Gmail.
 3. Import the necessary scripts into your Google Apps Script project.
@@ -63,4 +63,4 @@ To install Himaya:
 
 ## 📘 **Documentation**
 
-For the full documentation about the problem, the research, solution idea etc , please visit the [Himaya Documentation](https://github.com/Wambuapeter/Himaya/tree/master/Documentation).
+For the full documentation about the problem, the research, solution idea etc , please visit the [Himaya Documentation](https://github.com/Himaya-Email-Security/Himaya/tree/master/Documentation).
