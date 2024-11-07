@@ -63,4 +63,4 @@ To install Himaya:
 
 ## 📘 **Documentation**
 
-For the full documentation about the problem, the research, solution idea etc , please visit the [Himaya Documentation](https://github.com/Himaya-Email-Security/Himaya/tree/master/Documentation).
+For the full documentation about the problem, the research, solution idea etc, please visit the [Himaya Documentation](https://github.com/Himaya-Email-Security/Himaya/tree/master/Documentation).
