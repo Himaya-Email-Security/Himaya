@@ -2,7 +2,7 @@
 
 ### 🚨 **Protecting Gmail Users from Ransomware Threats** 🚨
 
-**Himaya** is an innovative Gmail add-on for Kenyan health organizatios that scans incoming emails for malicious links and attachments in real-time, providing early warnings to users by integrating with [VirusTotal](https://www.virustotal.com), [MalwareBazaar](https://bazaar.abuse.ch), and [AlienVault OTX](https://otx.alienvault.com). This tool is aimed at enhancing email security and keeping users safe from ransomware, phishing, and other cyber threats.
+**Himaya** is an innovative Gmail add-on for Kenyan health organizations that scans incoming emails for malicious links and attachments in real-time, providing early warnings to users by integrating with [VirusTotal](https://www.virustotal.com), [MalwareBazaar](https://bazaar.abuse.ch), and [AlienVault OTX](https://otx.alienvault.com). This tool is aimed at enhancing email security and keeping users safe from ransomware, phishing, and other cyber threats.
 
 ---
 
